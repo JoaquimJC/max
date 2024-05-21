@@ -1,0 +1,26 @@
+img{
+    width: 80%; 
+    margin: 3%;
+}
+body{
+    background-image: url("https://http2.mlstatic.com/D_NQ_NP_856503-MLB52221089874_102022-O.webp");
+    background-size: cover;
+    color:white ;
+    text-align: center;
+}
+button{
+    background-color: aliceblue;
+    width: 8%;
+    border-radius: 50px;
+    cursor: pointer;
+     
+}
+
+button:hover{
+    background-color: rgb(9, 236, 236);
+}
+
+div{
+    display: flex;
+    align-items: center;
+}
